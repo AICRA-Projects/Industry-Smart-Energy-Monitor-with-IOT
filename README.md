@@ -2,6 +2,14 @@
 We have presented an Internet of Things based smart energy meter that can be deployed in households and industries to measure power consumption at the device level without disrupting the operation of the appliances and without the need for rewiring
 The performance of the system has been tested using a variety of appliances and the accuracy has been validated by comparing it with the already known power rating of the appliance. The performance was evaluated using many household appliances from the categories mentioned previously.
 The number of household appliances has drastically increased in the recent years and with this, so has the consumption and demand for electricity. In the face of declining energy resources, there is a need for a solution that can help track, measure and control the consumption of electricity. Conventional energy meters do not provide information regarding power consumption at the device-level, due to which consumers cannot monitor or log the electricity consumed by each appliance. To bridge the gap in device energy consumption data, we propose the design and implementation of an Internet of Things (IoT) enabled, minimalistic, cost-effective and efficient smart energy meter which will aid consumers in obtaining information on the energy consumption of any electrical appliance. This will not only assist consumers in ensuring that their devices function as per the energy rating but also help them access energy expenditure patterns formed over time which will contribute towards awareness and conscious conservation of energy.
+
+## How to operate: 
+## step 1: Scan the QR code and a link will be displayed
+## step 2: Given link will open a graphical output 
+## step 3: Power and time sample will be stored cloud network
+## step 4: Real time data Consumption of power on per device is displayed on cloud
+
+
 ## Hardware
 * NodeMcu ESP8266
 * 5V USB Adaptor 
