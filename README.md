@@ -52,10 +52,14 @@ In the Arduino IDE, choose Sketch/Include Library/Add Zip Library
 Navigate to the ZIP file, and click Open
 
 ## Methods
-* Single-Phase 5A Range AC Current Sensor should connect with Analog Pins of NodeMCU 
-* Setup the probe with human body and connect with nodemuc with 5v power supply
-* A light Blub will get activate on AC power supply and Output will be shown in the graphical format of power and time 
-* SCAN  or visit the link in which thingspeak cloud graph has been displayed 
+#### Step 1 : Single-Phase 5A Range AC Current Sensor should connect with Analog Pins of NodeMCU 
+#### Step 2 : Give power to Node Mcu and Bulb with AC power supply 
+#### Step 3 : A light Blub will get activate on AC power supply and Output will be shown in the graphical format of power and time 
+#### Step 4 : Thingspeak Login :
+Email id : rk9160476@gmail.com  
+Password: Timts@123
+channel : https://thingspeak.com/channels/1527628
+#### Step 5: SCAN  or visit the link in which thingspeak cloud graph has been displayed 
 ## Refernce
 * https://thingspeak.com/
 * https://www.analog.com/media/en/technical-documentation/data-sheets/ad8232.pdf
