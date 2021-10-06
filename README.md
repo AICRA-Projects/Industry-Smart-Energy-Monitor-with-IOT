@@ -58,6 +58,8 @@ Navigate to the ZIP file, and click Open
 #### Step 4 : Thingspeak Login :
 Email id : rk9160476@gmail.com  
 Password: Timts@123
+
+
 channel : https://thingspeak.com/channels/1527628
 #### Step 5: SCAN  or visit the link in which thingspeak cloud graph has been displayed 
 ## Refernce
