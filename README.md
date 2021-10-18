@@ -9,6 +9,9 @@ The number of household appliances has drastically increased in the recent years
 ## step 3: Power and time sample will be stored cloud network
 ## step 4: Real time data Consumption of power on per device is displayed on cloud
 
+## Circuit diagram
+![smart_energy](https://user-images.githubusercontent.com/42414598/137716824-832ef427-285e-4fba-8f54-4628a14a5ddf.jpg)
+
 
 ## Hardware
 * NodeMcu ESP8266
